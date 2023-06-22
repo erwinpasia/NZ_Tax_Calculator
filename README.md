@@ -4,7 +4,7 @@
 
 ![](img2/ird_sample_paye.png)
 
-#### Make sure to run the latest version "nz_tax_calculator_v2.py" script. Cheers! 
+#### Make sure to run the latest version "nz_tax_calculator_v2.py" (this ain't humongous codebase) script. Cheers! 
 
 ![](img2/nz_tax_calculator_v2_py.png)
 
